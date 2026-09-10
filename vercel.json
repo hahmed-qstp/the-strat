@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/SOS-S18-Executive-Summary.dc.html" }
+  ]
+}
